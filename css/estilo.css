@@ -1,0 +1,15 @@
+.logo{
+  width: 8%;
+  margin-right: 1rem;
+  position: relative;
+  right: 12%;
+  }
+
+  .navbar-custom .navbar-brand{
+  position: relative;
+  right: 12%;
+}
+
+.px-5{
+  padding-left: 0%;
+}
